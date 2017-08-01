@@ -1,0 +1,61 @@
+AFPyro à Namur (BE) - mercredi 21 Novembre
+==========================================
+
+Contexte
+--------
+
+La communauté Plone belge francophone se réunit depuis plusieurs années à l'Université de Namur.
+
+Ces rencontres portent le nom de PLIP (Partages Libres et Informels autour de Plone) qui est un acronyme issu de la communauté Plone (http://plone.org/documentation/glossary/plip)
+
+Cet évènement est l'occasion pour les participants aux AFPyros de se joindre lors de la prochaine rencontre ce mercredi 21 novembre à Namur.
+
+Comment s'inscrire ?
+--------------------
+
+Via ce formulaire: http://www.doodle.com/4fzwva6hmrtxi4pz
+
+
+Quand ?
+-------
+
+Le mercredi 21 novembre à partir de 18h.
+
+*. 18H00 : petite bouffe chez un Italien du centre de Namur (RDV à 18H00 rue Rempart de la vierge ou 18H15 au restaurant)
+
+*. 20H00 : discussion dans un local de l'Université de Namur muni d'un projecteur et d'une connexion Wifi autour d'un bac de bières
+
+*. 23H00 : dernier petit verre dans un café Namurois pour ceux qui ont encore soif
+
+Programme de la soirée ?
+------------------------
+
+- Tour de table des personnes présentes et de leur job avec Plone et Python
+- Devroom Python au prochain FOSDEM (https://fosdem.org/2013/)
+- Présentation de quelques librairies qui gravitent autour du framework Pyramid (http://docs.pylonsproject.org/en/latest/docs/pyramid.html)
+
+Merci de confirmer ou infirmer votre venue sur le doodle suivant :
+
+http://www.doodle.com/4fzwva6hmrtxi4pz
+
+
+Où ?
+----
+
+Université de Namur (18H)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Faculté des sciences économiques, sociales et de gestion
+
+Rempart de la Vierge, 8
+
+5000 Namur 2ème étage, local 210 (Salle conférence)
+
+Adresse du restaurant (18H15)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Restaurant italien ETNA
+
+Rue Haute Marcelle 13-15
+
+5000 NAMUR

@@ -1,0 +1,10 @@
+
+AFPyro à Toulouse le 30 avril 2013
+===================================
+
+Un Afpyro aura lieu le mardi 30 avril à partir de 20h à `La Tireuse 24 rue Pargaminières <http://www.openstreetmap.org/?lat=43.60428035259247&lon=1.4375889301300049&zoom=18>`_
+
+Pas de présentation prévue, car organisé au pied levé à la pause café ! Ce sera juste une rencontre autour d'une bière (ou d'un jus de fruit) pour parler de python, avec des pythonistas toulousains.
+
+Pour se rendre à la tireuse, métro ligne A : arrêt Capitole, puis aller dans la rue qui rejoint la place St Pierre.
+

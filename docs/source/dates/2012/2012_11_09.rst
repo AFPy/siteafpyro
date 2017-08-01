@@ -1,0 +1,32 @@
+AFPyro à Liège (BE) - vendredi 9 Novembre
+=========================================
+
+Contexte
+--------
+
+Les participants habituels aux AFPyro-BE se mêleront avec les participants de `Tryton Unconference Liege <http://code.google.com/p/tryton/wiki/Liege2012>`_.
+
+Outre la thématique des ERPs, ce sera l'occasion de discuter des dernières nouveautés en Python ainsi que l'organisation des prochains évènements Python en Belgique (AFPyros, FOSDEM, RMLL, EuroSciPy).
+
+Comment s'inscrire ?
+--------------------
+
+Via ce formulaire: http://framadate.org/xu1z6nfau47yre38
+
+Quand ?
+-------
+
+Le 9 Novembre, à partir de 20h.
+
+Où ?
+----
+
+`As Ouhès <http://www.as-ouhes.be/>`_ (`plan`_)
+
+Place du Marché 21, 4000 Liège
+
+.. _`plan`: http://goo.gl/maps/w9WjW
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.be/maps?ie=UTF8&amp;q=As+Ouh%C3%A8s&amp;fb=1&amp;gl=be&amp;hq=As+Ouh%C3%A8s&amp;cid=0,0,5433095000009219031&amp;ll=50.645823,5.575754&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.be/maps?ie=UTF8&amp;q=As+Ouh%C3%A8s&amp;fb=1&amp;gl=be&amp;hq=As+Ouh%C3%A8s&amp;cid=0,0,5433095000009219031&amp;ll=50.645823,5.575754&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>

@@ -1,0 +1,17 @@
+AFPyro à Paris - le 15 Septembre
+================================
+
+Le prochain **Apero Python** se tiendra le **samedi 15 Septembre** à **Paris**, lors de la `PyCON-FR <http://www.pycon.fr/2012/>`_ qui se tient à la Vilette du 13 au 16 Septembre.
+
+Comme chaque fois, vous pouvez venir juste pour l'apéro et partager un (ou des) verres, et si vous le souhaitez, vous inscrire pour le repas qui suivra, dans un lieu proche encore à déterminer.
+
+Rendez-vous à partir de **19h00**, au `Café Chéri(e) <http://cafecherie.blogspot.fr/>`_, `44 bd de la Villette, Paris 19 <http://goo.gl/maps/00CHZ>`_.
+
+Vous pourrez acheter des tickets pour boire des bières ou des verres de vin à **3,5 EUR** l'unité.
+
+Pour dimensionner au mieux la réservation, merci de vous inscrire sur:
+http://framadate.org/xlkpnl8kdiam1yxe
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?q=44+bd+de+la+Villette,+Paris+19&amp;ie=UTF8&amp;hq=&amp;hnear=44+Boulevard+de+la+Villette,+75019+Paris,+%C3%8Ele-de-France,+France&amp;gl=fr&amp;t=m&amp;z=14&amp;ll=48.8738,2.375108&amp;output=embed"></iframe><br /><small><a href="https://maps.google.fr/maps?q=44+bd+de+la+Villette,+Paris+19&amp;ie=UTF8&amp;hq=&amp;hnear=44+Boulevard+de+la+Villette,+75019+Paris,+%C3%8Ele-de-France,+France&amp;gl=fr&amp;t=m&amp;z=14&amp;ll=48.8738,2.375108&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>

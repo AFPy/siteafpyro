@@ -1,0 +1,30 @@
+Avril
+=========
+
+**Python d'Avril: afpyro le vendredi 1er avril 2011 à 19h30**
+
+Pourquoi
+---------
+
+Parce que.
+
+...et puis aussi il faudra fêter la fin du 
+`sprint scikit-learn <http://gael-varoquaux.info/blog/?p=149>`_ à Logilab 
+où on aura appris plein de machines (le scikit-learn c'est fait pour faire 
+du "machine learning").
+
+Et puis il y a plein de monde sympa à Paris ce week end (comme d'hab).
+
+Où
+------
+
+Café Chéri(e) (`plan`_)
+
+44 bd de la Villette, 75019 Paris (FR).
+
+M°: Belleville /Colonel Fabien
+
+.. _`plan`: http://www.openstreetmap.org/?minlon=2.37511014938354&minlat=48.8738555908203&maxlon=2.37531042098999&maxlat=48.8740577697754
+
+
+

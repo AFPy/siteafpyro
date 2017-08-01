@@ -1,0 +1,15 @@
+Meetup à Grenoble - jeudi 23 janvier
+====================================
+
+Un meetup Python aura lieu le jeudi 23 janvier à Grenoble à partir de 19h à `la Casemate <http://www.ccsti-grenoble.org/>`_ (`place Saint Laurent, 38000 Grenoble <http://www.openstreetmap.org/?mlat=45.19789&mlon=5.7323&zoom=18>`_).
+
+L'agenda provisoire est le suivant:
+
+- 19h: Intro
+- 19h15: Arthur Vuillard: Tests Unitaires
+- 20h: Mike Bright: Tendances dévelopements pour 2014
+- 20h45: Discussion sur le groupe
+
+Merci de noter que nous aurons une petite salle disponible avec une capacite de 20 personnes. Pour faire en sorte qu'un maximum de personne puisse venir, merci de vous `inscrire/désinscrire sur cette page <http://www.meetup.com/Groupe-dutilisateurs-Python-Grenoble/events/158240072/>`_.
+
+La soirée se terminera autour d'un verre sur place ou dans un bar.

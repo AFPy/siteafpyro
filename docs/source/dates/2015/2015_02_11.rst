@@ -1,0 +1,12 @@
+Afpy à Pau le mercredi 11 Février
+=================================
+
+Un afpyro aura lieu à Pau le 11 Février à 20h30.
+
+Cela se tiendra au fablab MIPS 4 rue Despourrins au premier étage.
+(Il faut sonner à l'interphone)
+
+jpcw nous fera une petite présentation sur les décorateurs en Python et 
+on causera librement de différents sujets autour de python.
+
+Voir la `map <http://goo.gl/maps/AGCh7>`_

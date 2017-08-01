@@ -1,0 +1,25 @@
+AFPyro à Paris - le 25 Juillet 2013
+===================================
+
+Contexte
+--------
+
+Scikit-learn organise son deuxième sprint international à Paris !
+Rejoignez les développeurs pour une bière bien fraîche dans le quartier de la
+Butte aux cailles.
+
+Quand ?
+-------
+
+Le jeudi 25 Juillet, à partir de 19h30.
+
+Où ?
+----
+
+Au `Sputnik <http://www.sputnik.fr/>`_, 14-16, rue de la butte aux cailles.
+Pour s'y rendre:
+
+  - en métro : ligne 5 (place d'italie) ou 6 (corvisart)
+  - en bus : ligne 57, 67 arrêt Verlaine, 
+  - en Vélib' : Station Vélib' Avenue Casanova
+

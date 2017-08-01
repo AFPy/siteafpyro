@@ -1,0 +1,10 @@
+AFPYro à Nantes - mardi 20 avril
+================================
+
+Nous vous invitons à {v,n}ous retrouver autour d’un verre au `café Flesselles <http://www.openstreetmap.org/node/569755525>`_ le 20 avril pour ce premier AFPYro nantais de 2016.
+
+Vous pouvez nous informer de votre présence :
+
+- sur le `chan IRC <https://webchat.freenode.net/?channels=afpy-nantes>`_ (#afpy-nantes sur le réseau Freenode)
+- sur la `liste de diffusion <http://lists.afpy.org/listinfo/nantes>`_
+- sur Twitter, en mentionnant le compte `@PythonNantes <https://twitter.com/PythonNantes/>`_

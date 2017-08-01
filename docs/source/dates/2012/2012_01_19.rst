@@ -1,0 +1,62 @@
+Janvier
+========
+
+**C'est la nouvelle année!**
+
+Et il serait vraiment dommage de ne pas se la souhaiter devant un verre.
+
+Le prochain AFPyronannée aura donc lieu le Jeudi 19 Janvier. Venez avec votre bonne humeur et des bisous qui pique!
+
+À Bruxelles
+-----------
+
+À partir de 19h, à la `Porte Noire
+<http://www.laportenoire.be>`_ - `67, rue des Alexiens
+Timbaud <http://g.co/maps/k7mgw>`_ - 1000 Bruxelles.
+
+Pour être au courant des prochains Afpyros en Belgique: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_
+
+À côté de la gare centrale.
+
+Pau
+----
+au club d'échecs Henri IV  à 19H30
+
+39 ter rue E. Guichenné 64000 PAU
+
+`Plan OSM`_
+
+.. _`Plan OSM`: http://www.openstreetmap.org/?lat=43.29864&lon=-0.368015&zoom=16&layers=0B00FTFT
+                                                                                                     
+
+À Paris
+-------
+
+À partir de 19h30, à l'`Orange Mécanique
+<https://www.facebook.com/bar.orange.mecanique>`_ - `72 bis rue Jean-Pierre
+Timbaud <http://g.co/maps/2ey9q>`_ - 75011 Paris.
+
+Métro Parmentier. M3
+
+À San Francisco (US)
+--------------------
+
+À partir de 19h, au `21st amendment <http://21st-amendment.com>`_ - San
+Francisco
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=21st+Amendment+Brewery+Cafe,+563+2nd+St,+San+Francisco,+California,+United+States&amp;hl=en&amp;ie=UTF8&amp;view=map&amp;cid=10966415453676690637&amp;ll=37.782514,-122.392565&amp;spn=0.006295,0.006295&amp;t=m&amp;vpsrc=0&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=21st+Amendment+Brewery+Cafe,+563+2nd+St,+San+Francisco,+California,+United+States&amp;hl=en&amp;ie=UTF8&amp;view=map&amp;cid=10966415453676690637&amp;ll=37.782514,-122.392565&amp;spn=0.006295,0.006295&amp;t=m&amp;vpsrc=0&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+
+À Lyon - le 26 janvier
+----------------------
+
+Le premier Afpyro Lyonnais aura lieu de jeudi 26 janvier à 19h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://g.co/maps/pfyp6>`_ (au premier étage).
+
+Des Lightnings Talks auront sûrement lieu. Plus d'informations ici bientôt.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+  - en métro : arrêt Hotel de Ville
+  - en vélo'v : stations Place Sathonay, Carmélites Buredeaux, Place de la paix
+

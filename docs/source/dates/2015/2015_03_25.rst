@@ -1,0 +1,13 @@
+AFPyro à Lyon - mercredi 25 mars
+================================
+
+Un Afpyro aura lieu le mercredi 25 mars à partir de 19h au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ - `6 rue Saint Georges - 69005 Lyon <http://www.openstreetmap.org/?mlat=45.75904&mlon=4.82546#map=18/45.75904/4.82546>`_.
+
+Une présentation sur `apetizer <https://github.com/biodigitals/apetizer>`_ sera donnée par son auteur, et hôte de l'AFPyro, Nicolas Danjean. `Apetizer <https://github.com/biodigitals/apetizer>`_ est une librairie pour Django permettant de simplifier la création de vues, APIs, et notamment dans le cadre de création de wizards.
+
+Pour se rendre au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ :
+
+- en métro : arrêt Vieux Lyon - Cathédrale Saint Jean
+- en bus : lignes C20 ou 31 arrêt Saint Georges ou Sala
+- en vélo'v : stations Saint Jean / Cathédrale, Place Crépu
+

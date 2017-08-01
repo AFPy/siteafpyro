@@ -1,0 +1,9 @@
+
+AFPyro à Lyon - samedi 25 octobre
+=================================
+
+Un Afpyro aura lieu le 25 octobre à partir de 18h30 au `1929 Label Époque <http://www.1929-restaurant.com/>`_, situé `10 rue de la république, Lyon <http://www.openstreetmap.org/node/1865407690#map=18/45.76571/4.83582`_.
+
+Cet apéro Python accueillera les participants à PyConFr.
+
+Toutes les infos sur la soirée sur le `site de PyConFr <http://www.pycon.fr/2014/soiree/>`_.

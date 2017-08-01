@@ -1,0 +1,37 @@
+
+AFPyro à Lyon - mercredi 22 janvier
+===================================
+
+Un Afpyro aura lieu le mercredi 22 janvier à partir de 20h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://www.openstreetmap.org/?mlat=45.769148&mlon=4.831513&zoom=18&layers=M>`_.
+
+Présentation sur Alembic
+------------------------
+
+Claude Huchet de `SysGrove <http://sysgrove.com/>`_ donnera une présentation sur `Alembic <http://alembic.readthedocs.org/en/latest/>`_.
+
+Alembic est une librairie de migration de schéma de base de données qui s'appuie sur `SqlAlchemy <http://www.sqlalchemy.org/>`_.  Elle est simple d’accès, assez bien documentée pour une utilisation basique  de ses possibilité d'auto-migration. Alembic est capable de reconnaitre les cas suivants :
+
+- ajout/suppression de tables et colonnes
+- changer le status 'nullable' d'une colonne
+
+Mais des nombreux autres cas peuvent être envisagés :
+
+- renommer une colonne
+- ajouter une colonne dont les éléments ne peuvent être nul (ou de type ENUM) dans une table contenant des données
+- ajouter/modifier  les clef primaires dans une table
+- modifier des données depuis le script de migration
+- etc...
+
+Nous donnerons au cours de cette présentation quelques exemples de scripts permettant d'effectuer de telles migrations avec Alembic.
+
+À propos de l'Antre Autre
+-------------------------
+
+L'`Antre Autre <http://www.lantreautre.fr/>`_ est un lieu où nous pouvons discuter autour d'un verre, et, pour ceux qui le souhaitent, prendre un repas.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+
+- en métro : arrêt Hôtel de Ville
+- en bus : lignes C13 et C18 arrêt Mairie du 1er ou lignes 19, C14 et C3 à l'arrêt Terreaux
+- en vélo'v : stations Place Sathonay, Carmélites Burdeau, Place de la paix
+

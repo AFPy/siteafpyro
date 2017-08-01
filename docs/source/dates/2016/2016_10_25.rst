@@ -1,0 +1,13 @@
+AFPYro à Pau - Mardi 25 octobre
+================================
+
+Viendez, viendez donc à cet AFPYro consacré à Django au mips-lab à 18h30.
+
+Suite au succès du 18, Cédric continue son initiation à Django.
+
+::
+
+  MIPS-LAB
+  4, rue Despourrins
+  64000 Pau
+  France

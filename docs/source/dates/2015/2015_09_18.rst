@@ -1,0 +1,8 @@
+AFPyro à Bruxelles - vendredi 18 septembre
+==========================================
+
+Python 3.5 sera bientôt publiée, c'est l'opportunité de faire la fête, du moins à Bruxelles.
+
+La modernisation de Python est sur les rails, avec notamment l'arrivée des types optionnels (type hints), l'opérateur de multiplication des matrices (@) ou encore l'introduction des mots clés async et await, qui est la finalisation de l'intégration du pattern asynchrone dans le cœur de Python.
+
+Venez avec nous au `Betacowork <http://www.betacowork.com/>`_ le 18 septembre à 19h afin de célébrer cette nouvelle version :-)

@@ -1,0 +1,14 @@
+
+AFPyro à Lyon - mercredi 27 Novembre
+====================================
+
+Un Afpyro aura lieu le mercredi 27 octobre à partir de 20h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://www.openstreetmap.org/?mlat=45.769148&mlon=4.831513&zoom=18&layers=M>`_.
+
+Une présentation sera donnée sur le machine learning en Python (régression, clustering & classification).
+
+L'`Antre Autre <http://www.lantreautre.fr/>`_ est un lieu où nous pouvons discuter autour d'un verre, et, pour ceux qui le souhaitent, prendre un repas.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+  - en métro : arrêt Hôtel de Ville
+  - en bus : lignes C13 et C18 arrêt Mairie du 1er ou lignes 19, C14 et C3 à l'arrêt Terreaux
+  - en vélo'v : stations Place Sathonay, Carmélites Burdeau, Place de la paix

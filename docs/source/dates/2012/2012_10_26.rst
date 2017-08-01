@@ -1,0 +1,40 @@
+AFPyro à Bruxelles (BE) - le 26 Octobre
+=======================================
+
+English
+-------
+
+**Dear Pythonista friends, write down in your agenda the date of the next AFPyro!**
+
+The next **Aperos Belgium Python** will take place on **Friday, October 26th** in **Brussels**.
+
+In addition to the regulars of AFPyro, we are also pleased to meet the members of pyBug, the new **Python Belgian User Group**.
+
+We will discuss about the next events we will organize, especially during the **FOSDEM**.
+
+As usual, you can come just for drinking and sharing one (or many) drinks. And if you wish, you can register for the meal that follows, in a near place, to be determined.
+
+Meeting from **19:00**, on first floor of **Delirium cafe**, `Impasse De La Fidélité 4, 1000 Brussels <https://maps.google.be/maps?q=Delirium+Caf%C3%A9,+Impasse+de+la+Fid%C3%A9lit%C3%A9+4,+Bruxelles&hl=fr&ie=UTF8&ll=50.848034,4.352603&spn=0.021487,0.058579&sll=50.848206,4.354438&sspn=0.002686,0.007322&oq=d%C3%A9lirium&gl=be&hq=Delirium+Caf%C3%A9,+Impasse+de+la+Fid%C3%A9lit%C3%A9+4,+Bruxelles&t=m&z=15>`_.
+
+Please sign up in order to book the place: http://framadate.org/1qghop3uk2cn6drp?lang=en_GB
+
+Further information about the next AFPyros in Belgium: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_
+
+--------------------------------------------
+
+Français
+--------
+
+**Amis Pythonistes, notez dans vos agendas la date du prochain AFPyro !**
+
+Le prochain **Aperos Python Belgium** se tiendra le **vendredi 26 Octobre** à **Bruxelles**.
+
+En plus des habitués de l'AFPyro, nous attendons également avec plaisir les membres de pyBug le nouveau **Python Belgian User Group**.
+
+Comme chaque fois, vous pouvez venir juste pour l'apéro et partager un (ou des) verres, et si vous le souhaitez, vous inscrire pour le repas qui suivra, dans un lieu proche encore à déterminer.
+
+Rendez-vous à partir de **19:00**, au premier étage du **Délirium café**, `Impasse De La Fidélité 4, 1000 Brussels <https://maps.google.be/maps?q=Delirium+Caf%C3%A9,+Impasse+de+la+Fid%C3%A9lit%C3%A9+4,+Bruxelles&hl=fr&ie=UTF8&ll=50.848034,4.352603&spn=0.021487,0.058579&sll=50.848206,4.354438&sspn=0.002686,0.007322&oq=d%C3%A9lirium&gl=be&hq=Delirium+Caf%C3%A9,+Impasse+de+la+Fid%C3%A9lit%C3%A9+4,+Bruxelles&t=m&z=15>`_.
+
+Pour dimensionner au mieux la réservation, merci de vous inscrire sur: http://framadate.org/1qghop3uk2cn6drp?lang=fr_FR
+
+Toutes les infos des prochains AFPyros en Belgique: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_

@@ -1,0 +1,46 @@
+AFPyro à Mons (BE) - le 2 Octobre
+=================================
+
+*English version at the end of this page.*
+
+**Amis Pythonistes, notez la date du prochain AFPyro (et venez-y) !**
+
+Le prochain **Apero Python Belgium** se tiendra le **jeudi 2 Octobre à Mons**, lors de la `Quizaine Numérique de Mons <http://quinzainenumeriquemons.be/>`_, du 27 septembre au 19 octobre.
+
+En plus des habitués de l’AFPyro, nous accueillerons des débutants en Python afin de leur présenter la puissance du langage.
+
+Vous pourrez ainsi participer à un des deux workshops proposés en parallèle :
+
+1. Pour les Pythonistes débutants, un workshop pour apprendre les bases de Python, puis pour construire une application Web avec Flask.
+2. Pour les développeurs avancés, une initiation à AsyncIO, suivie d'un exemple concret d'une API REST/JSON asynchrone avec AsyncIO, aiohttp, aiorest et aiopg.
+Enfin, un benchmark sera réalisé afin de comparer les performances avec une API REST/JSON synchrone en Flask.
+
+**N'oubliez pas de prendre votre ordinateur portable si vous voulez participer au workshop.**
+
+Bien entendu (car c'est dans le nom), un apéro sera également organisé pendant l'événement.
+
+Rendez-vous à partir de 18h30, à **Co-nnexion**, Espace de Coworking, `2b Rue des Archers, 7000 Mons <http://goo.gl/maps/8ooeP>`_.
+
+Toutes les infos des prochains AFPyros en Belgique : `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_
+
+--------------------------------------------
+
+**Dear Pythonista friends, write down in your agenda the date of the next AFPyro (and come to it) !**
+
+The next **Aperos Python Belgium** will take place on **Thursday, October 2nd in Mons**, during the `Quizaine Numérique de Mons <http://quinzainenumeriquemons.be/>`_.
+
+Not only the regulars of AFPyro are welcome. We are also pleased to meet the beginners who want learn Python.
+
+Two workshops will be available:
+
+1. For the Python beginners, a workshop to learn Python basic, then to build a Web application with Flask.
+2. For the advanced developers, a workshop around AsyncIO with a REST/JSON API example with AsyncIO, aiohttp, aiorest et aiopg.
+Finally, a benchmark will be made to compare performances with a synchronous REST/JSON API with Flask.
+
+**Don't forget your laptop if you want to take part of a workshop.**
+
+Of course (it's in the name), an "apéro" will be also organized throughout the event.
+
+Meeting as from 18:30, at **Co-nnexion**, Espace de Coworking, `2b Rue des Archers, 7000 Mons <http://goo.gl/maps/8ooeP>`_.
+
+Further informations about the next AFPyros in Belgium: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_

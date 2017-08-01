@@ -1,0 +1,13 @@
+
+
+AFPyro à Lyon - le 24 mai
+==========================
+
+Un Afpyro Lyonnais aura lieu le jeudi 24 mai à partir de 19h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://g.co/maps/pfyp6>`_.
+
+Une présentation éclair sera faite sur `SQLAlchemy <http://www.sqlalchemy.org/>`_ et `SqlSoup <http://readthedocs.org/docs/sqlsoup/>`_.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+  - en métro : arrêt Hotel de Ville
+  - en vélo'v : stations Place Sathonay, Carmélites Buredeaux, Place de la paix
+

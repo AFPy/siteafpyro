@@ -1,0 +1,27 @@
+Septembre
+=========
+
+Pourquoi
+---------
+
+Parce que.
+
+Quand
+-------
+
+Jeudi 1er Septembre. De ~19h à dernier métro
+
+Où
+------
+
+Café Chéri(e) (`plan`_)
+
+44 bd de la Villette, 75019 Paris (FR).
+
+M°: Belleville /Colonel Fabien
+
+.. _`plan`: http://www.openstreetmap.org/?minlon=2.37511014938354&minlat=48.8738555908203&maxlon=2.37531042098999&maxlat=48.8740577697754
+
+
+
+

@@ -1,0 +1,68 @@
+Décembre
+=========
+
+**Viendez, viendez nombreux à l'afpyro national le mercredi 15 décembre 2010 à 19h**
+
+C'est le dernier AFPyro de l'année ! A NE PAS RATER !!! Il fait froid. Rien de tel qu'une bonne bière bien fraiche pour se réchauffer !!
+Le Père Noël pourrait bien être au rendez-vous... pour les plus sage d'entre vous !!
+
+Jusqu'à ce qu'il tape ça dans son interpréteur :
+
+::
+    
+    >>> from afpyro import antigravity                                  
+    >>> antigravity.pastis()                                                     
+    'http://www.afpy.org/Members/jpcw2002/pastis_moleculaire/image_view'
+
+    >>> # toi aussi tu sais faire des trucs magiques en afpyro                                        
+    >>> # alors viens les présenter
+
+.. image:: images/pastis_moleculaire.jpeg
+
+Paris
+------
+Café Chéri(e) (`plan`_)
+
+44 bd de la Villette, 75019 Paris (FR).
+
+M°: Belleville /Colonel Fabien
+
+
+.. _`plan`: http://www.openstreetmap.org/?minlon=2.37511014938354&minlat=48.8738555908203&maxlon=2.37531042098999&maxlat=48.8740577697754
+
+Toulouse
+--------
+
+Ce mois-ci l'Afpyro se fait lors d'une `rencontre logiciel libre Toulibre`_ au `Centre Culturel de Bellegarde`_, métro Jeanne D'arc. 
+
+Au programme, un barcamp python avec cinq présentations dans la soirée, de **20h à 23h**.
+
+* la manipulation des types et structures de base du langage, par Alexandre Guy
+* les modules Python utilisés pour développer MapOSMatic, leur réutilisation grâce au python, par Thomas Petazzoni
+* Introduction à l'ORM d'OpenERP, par Michel Renon
+* pygame, la librairie SDL de python pour faire des jeux en 2D, par José-Luis Lopez-Castillo
+* le langage Python dans GCompris, par Bruno Coudoin
+
+Et ensuite, rien ne nous empêche d'aller boire un verre dans un bar proche comme le Père Peinard.
+
+.. _`Centre Culturel de Bellegarde`: http://www.openstreetmap.org/?lat=43.608245&lon=1.445242&zoom=17&layers=B000FTFTT&mlat=43.60840&mlon=1.44472
+
+.. _`rencontre logiciel libre Toulibre`: http://www.toulibre.org/#mercredi_15_decembre_2010_rencontre_logiciels_libres_et_barcamp_python_afpyro
+
+Bidart
+------
+
+Pour la première fois, l'Afpyro prend la direction de la Côte Basque, puisque
+nous avons rendez-vous sur la Technopôle Izarbel, à Bidart, non loin de
+Bayonne - Biarritz - Anglet.
+
+Pour ceux qui ne connaîtraient pas, la Technopôle se trouve non loin de
+l'Aéroport de Biarritz - La Négresse. C'est donc cette sortie de l'Autoroute 
+qu'il faut emprunter. `plan depuis la sortie`_
+
+.. _`plan depuis la sortie`: http://tinyurl.com/2ua4jvr
+
+Nous attendrons tout le monde aux alentours de 19h30 et des brouettes. On a déjà
+les bières !
+
+En cas de besoin, contacter Bruno Bord au 06 20 53 80 67.

@@ -1,0 +1,12 @@
+
+AFPyro à Lyon - le 27 août 2014
+===============================
+
+Un Afpyro aura lieu le mercredi 27 août à partir de 19h au `Tooley's <http://www.facebook.com/pages/Au-tooleys/172305022819592>`_ - `7 quai Fulchiron - Lyon 5éme <http://www.openstreetmap.org/?mlat=45.758908&mlon=4.826945&zoom=18&layers=M>`_ (probablement sur la terrasse côté rue Monseigneur Lavarenne, si le temps le permet).
+
+Aucune présentation n'est prévue, mais nous pourrons discuter autour des dernières actualités sur Python, et ceux qui sont allés à Europython pourrons en parler autour d'un verre.
+
+Pour se rendre au `Tooley's <http://www.facebook.com/pages/Au-tooleys/172305022819592>`_ :
+ - en métro : arrêt Vieux Lyon
+ - en vélo'v : stations Place Crépu, Saint Jean, Place Gourjus
+ - en bus : bus 31 ou C20, arrêt Saint Georges

@@ -1,0 +1,36 @@
+AFPyro à Bruxelles (BE) - le 1 Février
+======================================
+
+**Dear Pythonista friends, write down in your agenda the date of the next AFPyro!**
+
+The next **Aperos Python Belgium** will take place on **saturday, February 1st in Brussels**, during the FOSDEM conference that takes place at ULB from 1st to 2nd February.
+
+In addition to the regulars of AFPyro, we are also pleased to meet the attendees of FOSDEM using Python.
+
+As usual, you can come just for drinking and sharing one (or many) drinks or if you wish, you can also register for the meal that follows, in a near place, at "Chez Léon" for 20:30, rue des Bouchers 18, B-1000 Brussels.
+
+Meeting from 18:45, on first floor of Delirium cafe, `Impasse De La Fidélité 4, 1000 Brussels <http://goo.gl/maps/sb2qV>`_.
+
+If you are a FOSDEM attendee, you can meet us at the Python stand, 1st floor of K Building, from 18h to go to Delirium cafe together.
+
+Please sign up in order to book the place: http://doodle.com/mn3yck6n3xxidsim
+
+Further information about the next AFPyros in Belgium: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_
+
+--------------------------------------------
+
+**Amis Pythonistes, notez dans vos agendas la date du prochain AFPyro !**
+
+Le prochain **Aperos Python Belgium** se tiendra le **samedi 1 Février à Bruxelles**, lors du FOSDEM qui se tient à ULB du 1 au 2 Février.
+
+En plus des habitués de l’AFPyro, nous attendons également avec plaisir les participants du FOSDEM qui utilisent Python.
+
+Comme chaque fois, vous pouvez venir juste pour l’apéro et partager un (ou des) verres, ou si vous le souhaitez, vous inscrire également pour le repas qui suivra, "Chez Léon" à 20h30, rue des Bouchers 18, B-1000 Bruxelles.
+
+Rendez-vous à partir de 18h45, au premier étage du Délirium café, `Impasse De La Fidélité 4, 1000 Brussels <http://goo.gl/maps/sb2qV>`_.
+
+Si vous participez au FOSDEM, nous vous donnons rendez-vous au stand Python, 1° étage du batiment K, à partir de 18h, afin d'aller au Délirium café ensemble.
+
+Pour dimensionner au mieux la réservation, merci de vous inscrire sur: http://doodle.com/mn3yck6n3xxidsim
+
+Toutes les infos des prochains AFPyros en Belgique: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_

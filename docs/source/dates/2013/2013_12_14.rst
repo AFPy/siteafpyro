@@ -1,0 +1,26 @@
+AFPyro à Paris - le 13 Décembre
+===============================
+
+Venez discuter de votre langage de programmation favori autour d'un verre et
+plus si affinités.
+
+Ouvert à toute personne intéressée, mais les trolls sont priés de laisser leur
+manteau poilu à l'entrée.
+
+Quand ?
+-------
+
+Le Vendredi 13 Décembre, vers 19h00.
+
+Où ?
+----
+
+`Café Chéri(e) <http://cafecherie.blogspot.fr/>`_ (`plan`_)
+
+44 bd de la Villette, 75019 Paris (FR).
+
+M°: Belleville /Colonel Fabien
+
+.. _`plan`: https://maps.google.com/maps?q=Caf%C3%A9+Ch%C3%A9ri(e),+Boulevard+de+la+Villette,+Paris,+France&ie=UTF8&sll=37.0625,-95.677068&sspn=51.887315,102.65625&oq=caf%C3%A9+ch%C3%A9ri(e)&hq=Caf%C3%A9+Ch%C3%A9ri(e),&hnear=Boulevard+de+la+Villette,+Paris,+France&t=m&z=16
+
+

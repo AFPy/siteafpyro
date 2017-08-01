@@ -1,0 +1,13 @@
+
+
+AFPyro à Lyon - le 30 Août
+==========================
+
+Afin de relancer tranquillement les apéros python lyonnais, un afpyro aura lieu le 30 août 2012 à partir de 19h. Notre lieu habituel étant fermé tout le mois d'août, l'afpyro aura lieu au `Tooley's <http://www.facebook.com/pages/Au-tooleys/172305022819592>`_ - `7 quai Fulchiron - Lyon 5éme <http://www.openstreetmap.org/?mlat=45.758908&mlon=4.826945&zoom=18&layers=M>`_ (probablement sur la terrase côté rue Monseigneur Lavarenne).
+
+Il n'y a pas de présentation prévue, mais n'hésitez pas à préparer un petit quelque chose montrable en terrasse. Ce sera aussi l'occasion de s'organiser pour aller à `PyConFR 2012 <http://www.pycon.fr/2012/>`_ et plus encore !
+
+Pour se rendre au `Tooley's <http://www.facebook.com/pages/Au-tooleys/172305022819592>`_ :
+  - en métro : arrêt Vieux Lyon
+  - en vélo'v : stations Place Crépu, Saint Jean, Place Gourjus
+

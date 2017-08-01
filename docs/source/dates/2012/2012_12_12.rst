@@ -1,0 +1,37 @@
+
+AFPyro à Bruxelles (BE) - mercredi 12 Décembre
+==============================================
+
+Contexte
+--------
+
+À l'occasion d'une conférence sur Python dans le cadre des Jeudis du Libre, un AFPyro aura lieu après ainsi qu'un repas.
+
+Les détails de la conférence sont disponibles sur le site Web des Jeudis du Libre: http://jeudisdulibre.be/2012/12/04/bruxelles-afpyro/
+
+Comment s'inscrire ?
+--------------------
+
+Via ce formulaire: http://framadate.org/2iy1fzpnv25l2ipm
+
+
+Quand ?
+-------
+
+Le mercredi 12 décembre à partir de 19h.
+
+*. 19H00 : Arrivée des participants
+
+*. 19H15 : Présentation de Python
+
+*. 20H00 : AFPyro puis le repas
+
+Où ?
+----
+
+L'Amour fou
+~~~~~~~~~~~
+
+185, Chaussée d'Ixelles - 1050 Bruxelles
+
+http://www.lamourfou.be/page/contacts/

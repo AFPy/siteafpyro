@@ -1,0 +1,18 @@
+Django MeetUp à Paris - le 20 Septembre
+=========================================
+
+Le prochain **Django MeetUp**, l'apéro de la rentrée, se tiendra le **jeudi 20 Septembre** à **Paris**.
+
+Rendez-vous à partir de **19h00**, au `Dernier bar avant la fin du monde <http://dernierbar.com/>`_ . Ce sera l'occasion de partager bières et discussions.
+
+Parmi les sujets qui seront peut-être abordés : 
+
+ - organisation d'une djangocon parisienne
+ - retours d'exp sur le multi-database
+ - comparatif des CMS dispos
+
+Vous ne connaissez pas Django et vous avez envie de le découvrir ? Les MeetUp Django sont justement aussi faites pour cela. Alors n'hésitez plus et venez échanger avec les djangonautes qui y seront. 
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=Le+Dernier+Bar+Avant+La+Fin+Du+Monde,+Avenue+Victoria,+Paris&amp;aq=0&amp;oq=le+dernier+bar&amp;sll=44.054425,5.9746&amp;sspn=3.418692,6.954346&amp;ie=UTF8&amp;hq=Le+Dernier+Bar+Avant+La+Fin+Du+Monde,+Avenue+Victoria,&amp;hnear=Paris,+%C3%8Ele-de-France&amp;ll=48.857946,2.346375&amp;spn=0.006295,0.012863&amp;t=m&amp;output=embed"></iframe><br /><small><a href="https://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=Le+Dernier+Bar+Avant+La+Fin+Du+Monde,+Avenue+Victoria,+Paris&amp;aq=0&amp;oq=le+dernier+bar&amp;sll=44.054425,5.9746&amp;sspn=3.418692,6.954346&amp;ie=UTF8&amp;hq=Le+Dernier+Bar+Avant+La+Fin+Du+Monde,+Avenue+Victoria,&amp;hnear=Paris,+%C3%8Ele-de-France&amp;ll=48.857946,2.346375&amp;spn=0.006295,0.012863&amp;t=m" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>

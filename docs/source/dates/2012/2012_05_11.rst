@@ -1,0 +1,14 @@
+AFPyro à Namur (BE) - le 11 Mai
+================================
+
+À partir de 19h, à la `Cuve à Bière <http://www.cuveabiere.be/accueil>`_ situé à `Rue des Brasseurs 108, B-5000 Namur <http://g.co/maps/8s64x>`_.
+
+Au moins `9 personnes <http://www.doodle.com/qdetpqwkebbzw7iu>`_ seront présentes à l'AFPyro.
+
+Un repas est prévu plus tard dans la soirée, pour ceux qui sont intéressés.
+
+Pour trouver covoiturage et/ou être au courant des prochains AFPyros en Belgique: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.be/maps?ie=UTF8&amp;q=La+Cuve+%C3%A0+Bi%C3%A8re&amp;fb=1&amp;gl=be&amp;hq=La+Cuve+%C3%A0+Bi%C3%A8re&amp;hnear=0x47c3c49d464cf871:0x6ad2d087c927be75,Ixelles&amp;cid=0,0,6720348977281347173&amp;ll=50.462017,4.864544&amp;spn=0.006295,0.006295&amp;t=v&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.be/maps?ie=UTF8&amp;q=La+Cuve+%C3%A0+Bi%C3%A8re&amp;fb=1&amp;gl=be&amp;hq=La+Cuve+%C3%A0+Bi%C3%A8re&amp;hnear=0x47c3c49d464cf871:0x6ad2d087c927be75,Ixelles&amp;cid=0,0,6720348977281347173&amp;ll=50.462017,4.864544&amp;spn=0.006295,0.006295&amp;t=v&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>

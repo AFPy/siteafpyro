@@ -1,0 +1,14 @@
+AFPyro à Lyon - mercredi 27 mai
+===============================
+
+Un Afpyro aura lieu le mercredi 27 mai à partir de 19h au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ - `6 rue Saint Georges - 69005 Lyon <http://www.openstreetmap.org/?mlat=45.75904&mlon=4.82546#map=18/45.75904/4.82546>`_.
+
+`Matthieu <http://mgautier.fr/>`_ nous parlera de son `éditeur de texte écrit en Python <http://www.devparrot.org/>`_.
+
+Les participants sont invités à ramener des boissons ou de la nourriture à partager.
+
+Pour se rendre au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ :
+
+- en métro : arrêt Vieux Lyon - Cathédrale Saint Jean
+- en bus : lignes C20 ou 31 arrêt Saint Georges ou Sala
+- en vélo'v : stations Saint Jean / Cathédrale, Place Crépu

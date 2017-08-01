@@ -1,0 +1,51 @@
+AFPyro à Bruxelles (BE) - le 22 Août
+====================================
+
+English
+-------
+
+**Dear Pythonista friends, write down in your agenda the date of the next AFPyro!**
+
+The next **Aperos Belgium Python** will take place on **thursday, August 22th**
+in **Brussels**, during the `EuroSciPy conference
+<http://www.euroscipy.org/>`_ that takes place at ULB from 21st to 24th
+August.
+
+In addition to the regulars of AFPyro, we are also pleased to meet the
+attendees of EuroSciPy using Python in scientific fields.
+
+As usual, you can come just for drinking and sharing one (or many) drinks. And
+if you wish, you can register for the meal that follows, in a near place, to
+be determined.
+
+Meeting from **19:30**, on ground floor of **Delirium cafe**, `Impasse De La
+Fidélité 4, 1000 Brussels <http://osm.org/go/0EoTgZPpj->`_.
+
+Please sign up in order to book the place:
+http://framadate.org/studs.php?sondage=6kykm2pwyd7i8woi
+
+--------------------------------------------
+
+Français
+--------
+
+**Amis Pythonistes, notez dans vos agendas la date du prochain AFPyro !**
+
+Le prochain **Aperos Python Belgium** se tiendra le **jeudi 22 Août** à
+**Bruxelles**, lors de la `conférence EuroSciPy <http://www.euroscipy.org/>`_
+qui se tient à ULB du 21 au 24 août.
+
+En plus des habitués de l'AFPyro, nous attendons également avec plaisir les
+participants de la conférence EuroSciPy qui utilisent Python dans des
+problématiques scientifiques.
+
+Comme chaque fois, vous pouvez venir juste pour l'apéro et partager un (ou
+des) verres, et si vous le souhaitez, vous inscrire pour le repas qui suivra,
+dans un lieu proche encore à déterminer.
+
+Rendez-vous à partir de **19h30**, au rez-de-chaussée du **Délirium café**,
+`Impasse De La Fidélité 4, 1000 Brussels <http://osm.org/go/0EoTgZPpj->`_.
+
+Pour dimensionner au mieux la réservation, merci de vous inscrire sur:
+http://framadate.org/studs.php?sondage=6kykm2pwyd7i8woi
+

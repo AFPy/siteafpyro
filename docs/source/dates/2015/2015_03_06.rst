@@ -1,0 +1,30 @@
+AFPyro à Bruxelles (BE) - vendredi 6 Mars
+=========================================
+
+Un Meetup/AFPyro aura lieu le vendredi 6 Mars à partir de 19h à `la Mort Subite <http://www.alamortsubite.com/>`_ - `Rue Montagne-aux-Herbes Potagères 7, Brussels <https://www.google.com/maps?f=q&hl=en&q=Rue+Montagne-aux-Herbes+Potag%C3%A8res+7,+Brussels,+Brussels,+be>`_.
+
+Pour s'inscrire: http://www.meetup.com/Belgium-Python-Meetup-aka-AperoPythonBe/events/220506641/
+
+En plus des Francophones, des Néerlandophones seront également présents.
+
+Chacun pourra parler sa langue pendant le drink, par contre, les présentations seront en anglais pour être compréhensibles de tous.
+
+Les présentations
+-----------------
+
+- AI: Curious Actors by Michael
+
+- Write and prod an efficient REST API with API-Hour in 5 minutes by Ludovic
+
+- Tool discovery : Plumbum by Fabien
+
+- Python Belgium Association by Stephane
+
+Prérequis
+---------
+
+Pour plus d'intéractions pendant les présentations, vous pouvez venir avec votre laptop, en ayant installé au préalable:
+
+- **wrk** si vous voulez essayer de faire tomber le daemon API-Hour de Ludovic
+
+- **plumbum** et un serveur distant afin de tester les scripts proposés par Fabien

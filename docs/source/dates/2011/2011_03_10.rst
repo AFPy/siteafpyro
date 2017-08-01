@@ -1,0 +1,36 @@
+Mars 
+=========
+
+**Viendez, viendez nombreux à l'afpyro transatlantique le jeudi 10 mars 2011 à 19h**
+
+Un AFPyro Transatlantique le jeudi 10 mars que pasa ?
+
+Bon ok, imaginons un instant qu'il faille se justifier :
+
+* le vénérable cyp descend à Pau
+* `ogrisel`_ aura rencontré un franc succès lors de son `atelier sur le machine learning`_
+* ogrisel sera en train de traduire les slides de sa `conf sur le machine learning`_ oui oui celle que l'on a eu à PyCon FR (l'un des rares trucs où les ricains ont 6 mois de retard sur les frenchies).
+* `tarek`_ fignolera ses slides sur `Distutils2`_
+* tarek fignolera ses slides sur `Firefox Sync`_
+* `haypo`_ fignolera ses slides sur `Unicode dans Python 3`_
+
+Ben nous on va fêter ça !
+
+Pau
+----
+au club d'échecs Henri IV 
+
+39 ter rue E. Guichenné 64000 PAU
+
+`Plan OSM`_                                                                
+
+.. _`Plan OSM`: http://www.openstreetmap.org/?lat=43.29864&lon=-0.368015&zoom=16&layers=0B00FTFT
+.. _`atelier sur le machine learning`: http://us.pycon.org/2011/schedule/presentations/187/
+.. _`conf sur le machine learning`: http://us.pycon.org/2011/schedule/presentations/191/
+.. _`Distutils2`: http://us.pycon.org/2011/schedule/presentations/81/
+.. _`Firefox Sync`: http://us.pycon.org/2011/schedule/presentations/83/
+.. _`Unicode dans Python 3`: http://us.pycon.org/2011/schedule/presentations/266/
+.. _`ogrisel`: http://us.pycon.org/2011/speaker/profile/189/
+.. _`tarek`: http://us.pycon.org/2011/speaker/profile/123/
+.. _`haypo`: http://us.pycon.org/2011/speaker/profile/231/
+

@@ -1,0 +1,19 @@
+
+AFPyro à Lyon - mercredi 22 octobre
+=====================================
+
+Un Afpyro aura lieu le mercredi 22 octobre à partir de 19h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://www.openstreetmap.org/?mlat=45.769148&mlon=4.831513&zoom=18&layers=M>`_.
+
+Il n'y aura pas de présentation ce mois ci, mais on va s'organiser un peu pour que tout se passe bien pendant la `PyConFr <http://www.pycon.fr/2014/>`_. Donc si jamais vous êtes lyonnais et volontaire, venez y faire un tour !
+
+Si vous n'avez pas la possibilité de venir à l'apéro, mais que vous
+voulez donner un coup de main pendant PyConFr, `faites signe <mailto:orga@pycon.fr>`_ !
+
+L'`Antre Autre <http://www.lantreautre.fr/>`_ est un lieu où nous pouvons discuter autour d'un verre, et, pour ceux qui le souhaitent, prendre un repas.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+
+- en métro : arrêt Hôtel de Ville
+- en bus : lignes C13 et C18 arrêt Mairie du 1er ou lignes 19, C14 et C3 à l'arrêt Terreaux
+- en vélo'v : stations Place Sathonay, Carmélites Burdeau, Place de la paix
+

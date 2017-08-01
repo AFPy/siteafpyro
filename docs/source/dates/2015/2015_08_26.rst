@@ -1,0 +1,16 @@
+AFPyro à Lyon - mercredi 26 août
+================================
+
+Un Afpyro aura lieu le mercredi 26 août à partir de 19h au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ - `6 rue Saint Georges - 69005 Lyon <http://www.openstreetmap.org/?mlat=45.75904&mlon=4.82546#map=18/45.75904/4.82546>`_.
+
+Il n'y aura pas de présentation ce mois ci, nous discuterons de pythoneries en toute tranquillité. Nous pourrons aussi voir à organiser les activités à venir !
+
+Les participants sont invités à ramener des boissons ou de la nourriture à partager.
+
+Pour se rendre au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ :
+
+- en métro : arrêt Vieux Lyon - Cathédrale Saint Jean
+- en bus : lignes C20 ou 31 arrêt Saint Georges ou Sala
+- en vélo'v : stations Saint Jean / Cathédrale, Place Crépu
+
+Nous demandons aux participants de respecter la `charte de l'AFPy <http://www.afpy.org/doc/afpy/charte.html>`_ (lisez là !).

@@ -1,0 +1,9 @@
+AFPyro à Marseille - vendredi 16 octobre
+========================================
+
+Le premier AFPyro à Marseille? Ne ratez pas l'occasion de dire "j'y étais!".
+
+Cela aura lieu `au café-restaurant de la Friche belle de mai
+<http://www.lafriche.org/content/caf%C3%A9-restaurant-les-grandes-tables>`_.
+
+On pourra discuter d'EuroScipy 2015, de 3.5, et préparer la pyconFR.

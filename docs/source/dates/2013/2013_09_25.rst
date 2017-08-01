@@ -1,0 +1,14 @@
+
+AFPyro à Lyon - le 25 septembre 2013
+====================================
+
+Un Afpyro aura lieu le mercredi 25 septembre à partir de 19h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://www.openstreetmap.org/?mlat=45.769148&mlon=4.831513&zoom=18&layers=M>`_.
+
+Cette soirée de rentrée sera l'occasion de faire un apéro commun avec l'antenne locale de l'`AFUP <http://lyon.afup.org>`_. Deux présentations seront donc faites : Python pour les développeurs PHP, et la présentation jumelle, Php pour les développeurs Python.
+
+L'`Antre Autre <http://www.lantreautre.fr/>`_ est un lieu où nous pouvons discuter autour d'un verre, et, pour ceux qui le souhaitent, prendre un repas.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+  - en métro : arrêt Hôtel de Ville
+  - en bus : lignes C13 et C18 arrêt Mairie du 1er ou lignes 19, C14 et C3 à l'arrêt Terreaux
+  - en vélo'v : stations Place Sathonay, Carmélites Burdeau, Place de la paix

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>AFPyro – ${c.head_title}</title>
+  <meta name="description" content="Les AFPyros sont des apéros Python organisés par l'AFPY partout dans le monde" />
+  <meta name="keywords" content="afpyro apero python afpy" />
+  <meta name="author" content="AFPY" />
+  <link href="/_static/pygments.css" type="text/css" rel="stylesheet" media="screen" />
+  <link href="/static/sphinxdoc.css" type="text/css" rel="stylesheet" media="screen" />
+  <link href="/static/style.css" type="text/css" rel="stylesheet" media="screen" />
+  <link href="/afpyro.rss" title="RSS Feed" type="application/rss+xml" rel="alternate" id="MediaRSS">
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<header><!-- header -->
+		<a href="/" accesskey="1" title="afpy" id="site-logo">
+                 <img width="200" height="85" alt="AFPy" src="/static/logo_afpy.png"></a><!-- header image -->
+	</header><!-- end of header -->
+
+	<nav><!-- top nav -->
+		<div class="menu" id="menu">
+			<ul>
+        <li><a href="${url('docs', id='accueil')}">A propos</a></li>
+        <li><a href="${url('docs', id='dates')}#menu">Dates</a></li>
+	<!--
+	TODO:sub-menu here routing already works
+	  <ul>
+	      <li><a href="${url('dates', id='2010')}">2010</a></li>
+	  </ul>
+	-->
+        <li><a href="${url('docs', id='faq')}#menu">F.A.Q</a></li>
+        <li><a href="${url('docs', id='contribute')}#menu">Organiser un Afpyro</a></li>
+        <li><a href="${url('code', path_info='file/tip')}#menu">Code</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+
+	<div id="main"><!-- #main content and sidebar area -->
+
+			<div id="content"><!-- #content -->
+
+        		<article>
+              <h1>${c.title|n}</h1>
+              ${c.body|n}
+            </article>
+			</div><!-- end of #content -->
+
+	</div><!-- end of #main content and sidebar-->
+
+		<footer>
+		<div id="footer-area">
+
+			<div id="footer-outer-block">
+					<aside class="footer-segment">
+							<h4>Friends</h4>
+								<p>
+									<a href="http://www.afpy.org">AFPy</a>
+								</p>
+                                <p>
+									<a href="http://front-de-liberation-des-developpeurs.org/">FLD</a>
+                                </p>
+					</aside><!-- end of #first footer segment -->
+
+					<aside class="footer-segment">
+							<h4>Social</h4>
+                <p><a href="http://identi.ca/group/afpy">Identi.ca</a></p>
+                <p><a href="http://search.twitter.com/search?q=%23afpyro">Twitter</a></p>
+					</aside><!-- end of #fourth footer segment -->
+
+					<aside class="footer-segment">
+							<h4>Propulsé par</h4>
+                <p>
+                  <a href="http://python.org/">Python</a>,
+                  <a href="http://pylonshq.com/">Pylons</a>,
+                  <a href="http://pyquery.org/">PyQuery</a>,
+                </p>
+                <p>
+                  <a href="http://mercurial.selenic.com/">Mercurial</a>,
+                  <a href="http://sphinx.pocoo.org/">Sphinx</a>
+                </p>
+					</aside><!-- end of #fourth footer segment -->
+
+					<aside class="footer-segment">
+							<h4>afpy.ro</h4>
+								<p>&copy; 2010 <a href="/">AFPy</a>.</p>
+								<p>Code sous licence <a href="http://en.wikipedia.org/wiki/Beerware">Beerware</a></p>
+					</aside><!-- end of #fourth footer segment -->
+
+			</div><!-- end of footer-outer-block -->
+		</div><!-- end of footer-area -->
+	</footer>
+
+</div><!-- #wrapper -->
+<!-- Free template created by http://freehtml5templates.com -->
+<a id="tooCool" href="../faq.html">Too Cool for Internet Explorer</a>
+</body>
+</html>

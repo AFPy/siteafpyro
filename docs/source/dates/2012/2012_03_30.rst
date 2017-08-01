@@ -1,0 +1,14 @@
+AFPyro à Liège (BE) - le 30 mars
+================================
+
+À partir de 19h, à la brasserie Cathedrale
+`Place de la Cathédrale 3 - B-4000 Liège <http://g.co/maps/g8p9t>`_.
+Un repas est prévu plus tard dans la soirée, pour ceux qui sont intéressés.
+
+Un covoiturage est possible de Bruxelles, contactez-moi par e-mail: gmludo@gmail.com
+
+Pour être au courant des prochains Afpyros en Belgique: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.be/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=Place+de+la+Cath%C3%A9drale+3+4000+Li%C3%A8ge&amp;aq=0&amp;oq=3,+Place+de+la+Cath%C3%A9drale++4000+Li%C3%A8ge&amp;sll=50.819579,4.403766&amp;sspn=0.01197,0.033023&amp;t=v&amp;ie=UTF8&amp;hq=&amp;hnear=Place+de+la+Cath%C3%A9drale+3,+4000+Li%C3%A8ge,+R%C3%A9gion+Wallonne&amp;ll=50.640809,5.571082&amp;spn=0.012016,0.033023&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.be/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=Place+de+la+Cath%C3%A9drale+3+4000+Li%C3%A8ge&amp;aq=0&amp;oq=3,+Place+de+la+Cath%C3%A9drale++4000+Li%C3%A8ge&amp;sll=50.819579,4.403766&amp;sspn=0.01197,0.033023&amp;t=v&amp;ie=UTF8&amp;hq=&amp;hnear=Place+de+la+Cath%C3%A9drale+3,+4000+Li%C3%A8ge,+R%C3%A9gion+Wallonne&amp;ll=50.640809,5.571082&amp;spn=0.012016,0.033023&amp;z=14" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>

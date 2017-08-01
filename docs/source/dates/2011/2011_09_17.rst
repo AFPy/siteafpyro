@@ -1,0 +1,12 @@
+Septembre
+==========
+
+**Viendez, viendez nombreux à l'Afpyro de la** `PyCon-FR 2011`_
+
+
+Rennes
+---------
+
+17 septembre à partir de 18h30
+
+.. _`PyCon-FR 2011`: http://pycon.fr

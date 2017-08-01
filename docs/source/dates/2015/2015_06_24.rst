@@ -1,0 +1,14 @@
+AFPyro à Lyon - mercredi 24 juin
+================================
+
+Un Afpyro aura lieu le mercredi 24 juin à partir de 19h au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ - `6 rue Saint Georges - 69005 Lyon <http://www.openstreetmap.org/?mlat=45.75904&mlon=4.82546#map=18/45.75904/4.82546>`_.
+
+Il n'y aura pas de présentation ce mois ci, nous disucterons de pythoneries en toute tranquillité.
+
+Les participants sont invités à ramener des boissons ou de la nourriture à partager.
+
+Pour se rendre au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ :
+
+- en métro : arrêt Vieux Lyon - Cathédrale Saint Jean
+- en bus : lignes C20 ou 31 arrêt Saint Georges ou Sala
+- en vélo'v : stations Saint Jean / Cathédrale, Place Crépu

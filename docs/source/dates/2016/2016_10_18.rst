@@ -1,0 +1,13 @@
+AFPYro à Pau - Mardi 18 octobre
+================================
+
+Viendez, viendez à cet AFPYro post-pycon au mips-lab à 18h30
+
+Cédric y présentera Django 
+
+::
+
+  MIPS-LAB
+  4, rue Despourrins
+  64000 Pau
+  France

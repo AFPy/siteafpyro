@@ -1,0 +1,18 @@
+
+AFPyro à Bruxelles (BE) - vendredi 10 Mai
+=========================================
+
+Un AFPyro, Apéro Python, aura lieu ce 10 mai à l'Université de Bruxelles. Il se composera d'une série de Lightning Talks au Batiment K de l'ULB suivi d'un passage au Restaurant « La Bécasse ». Celles-ci auront lieu au batiment K de l'ULB  (Campus Solbosh), salle K.4.601 (quasiment la même salle pour la devroom python du FOSDEM) et seront suivi d'un repas à "La bécasse" à partir de 21:00 [2]
+
+L'ULB est facilement accessible via les bus 71 et 95 ainsi que les trams 7, 25, 94 et via le Ring. Si vous ne voyez pas comment venir n'hésitez pas à demander.
+
+Horaire
+-------
+
+* 19:00 Ouverture
+* 19:15 OpenPyXL : réalisation de la librairie, dont reverse-engineering des specs OOXML par Eric Gazoni (30min, en français)
+* 19:55 Internal workings of the Declarative extension of SQLAlchemy par Erik Janssens (30min, en anglais)
+* 20:30 Discussion Ouverte sur les AFPyro-BE, la communauté belge python et pouvant dériver sur ce que vous voulez
+* 21:00 Repas à La Becasse
+
+Merci de vous inscrire au Framadate pour que nous puissons reserver le nombre correct de place au restaurant: http://framadate.org/jze5k7xeqgo3dlh5

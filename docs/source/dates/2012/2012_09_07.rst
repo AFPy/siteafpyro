@@ -1,0 +1,17 @@
+AFPyro à Liège (BE) - le 7 septembre
+====================================
+
+À partir de 19h, au `Pot au lait <http://www.potaulait.be/>`_:
+`Rue Soeurs-de-Hasque 9 - 4000 Liège <http://goo.gl/maps/Hv5ll>`_.
+
+Merci de s'inscrire pour le bar et/ou le restaurant: http://framadate.org/a4mg8pubxcrwtfe4
+
+Outre les discussions habituelles, nous discuterons de la `PyCON-FR <http://www.pycon.fr/2012/>`_ qui aura lieu à Paris du 13 au 16 septembre, afin de s'organiser pour faire du covoiturage.
+
+De plus, nous discuterons de l' `EuroSciPy <http://www.euroscipy.org/conference/euroscipy2012>`_ qui a eu lieu cette année à Bruxelles.
+
+Pour être au courant des prochains Afpyros en Belgique: `Aperos Python Belgium <https://groups.google.com/group/afpyro-be/about?hl=en&noredirect=true>`_
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.be/maps?ie=UTF8&amp;q=Le+Pot+au+Lait&amp;fb=1&amp;gl=be&amp;hq=Le+Pot+au+Lait&amp;cid=0,0,5594897470700353557&amp;ll=50.640481,5.573303&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.be/maps?ie=UTF8&amp;q=Le+Pot+au+Lait&amp;fb=1&amp;gl=be&amp;hq=Le+Pot+au+Lait&amp;cid=0,0,5594897470700353557&amp;ll=50.640481,5.573303&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>

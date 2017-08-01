@@ -1,0 +1,19 @@
+AFPyro à Lyon - mercredi 22 avril
+=================================
+
+Un Afpyro aura lieu le mercredi 22 avril à partir de 19h au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ - `6 rue Saint Georges - 69005 Lyon <http://www.openstreetmap.org/?mlat=45.75904&mlon=4.82546#map=18/45.75904/4.82546>`_.
+
+Balthazar nous emmène en balade coté backend et nous propose une visite guidée des différents types d'outils communément rencontrés dans le backend d'une application web Python (application et serveur WSGI, serveur web, base de données relationnelles et NoSQL, moteur de recherche, moteur de cache, tâches de fonds, etc...).
+
+Les participants sont invités à ramener des boissons ou de la nourriture à partager.
+
+Pour se rendre au `Gîte Numérique <https://www.facebook.com/legitenumerique>`_ :
+
+- en métro : arrêt Vieux Lyon - Cathédrale Saint Jean
+- en bus : lignes C20 ou 31 arrêt Saint Georges ou Sala
+- en vélo'v : stations Saint Jean / Cathédrale, Place Crépu
+
+Autres liens :
+
+- `évènement Meetup <http://www.meetup.com/legitenumerique/events/221909523/>`_
+- `évènement Facebook <https://www.facebook.com/events/702834143175791/>`_

@@ -1,0 +1,48 @@
+
+AFPyro à Bruxelles (BE) et Lyon - mercredi 23 Octobre
+=====================================================
+
+Bruxelles
+*********
+
+Pour ce premier AFPyro-BE de rentrée, nous aurons le plaisir d'assister à trois présentations :
+
+#. Laurent Peuch nous montrera les différents outils de debug en Python.
+
+#. Hugo Herter fera un retour d'expériences sur PyBrain (réseaux neuronaux).
+
+#. Nicolas Pettiaux nous présentera une application Django orienté restauration.
+
+Enfin, nous plannifierons le covoiturage afin de se rendre à la PyCON-FR qui aura lieu le 26-27 octobre à Strasbourg.
+
+Pour les intéressés, un repas est prévu après les présentations.
+
+Comment s'inscrire ?
+--------------------
+
+Via ce formulaire: http://framadate.org/studs.php?sondage=hdx5xtm8thpkv6u6
+
+Quand ?
+-------
+
+Mercredi 23 Octobre à partir de 19h.
+
+Où ?
+----
+
+L'évènement aura lieu à l'ULB Solbosch, dans le batiment K, la salle 3.601: http://www.ulb.ac.be/campus/solbosch/plan.html
+
+
+Lyon
+****
+
+Un Afpyro aura lieu le mercredi 23 octobre à partir de 19h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://www.openstreetmap.org/?mlat=45.769148&mlon=4.831513&zoom=18&layers=M>`_.
+
+Une présentation sera donnée sur `Buildbot <http://buildbot.net/>`_. `Buildbot <http://buildbot.net/>`_ est un framework d'intégration continue qui permet de construire, tester et distribuer vos logiciels en utilisant le flux de travail que vous aurez choisi (et sans installer d'usine à gaz ;) ).
+
+L'`Antre Autre <http://www.lantreautre.fr/>`_ est un lieu où nous pouvons discuter autour d'un verre, et, pour ceux qui le souhaitent, prendre un repas.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+  - en métro : arrêt Hôtel de Ville
+  - en bus : lignes C13 et C18 arrêt Mairie du 1er ou lignes 19, C14 et C3 à l'arrêt Terreaux
+  - en vélo'v : stations Place Sathonay, Carmélites Burdeau, Place de la paix

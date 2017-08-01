@@ -1,0 +1,12 @@
+
+AFPyro à Lyon - le 26 Septembre
+===============================
+
+Un Afpyro Lyonnais aura lieu le mercredi 26 septembre à partir de 19h à l'`Antre Autre <http://www.lantreautre.fr/>`_ - `11 rue Terme - 69001 Lyon <http://www.openstreetmap.org/?mlat=45.769148&mlon=4.831513&zoom=18&layers=M>`_.
+
+Cet apéro sera l'occasion pour les gens présents à `PyconFR <http://www.pycon.fr/2012/>`_ de faire un retour aux autres sur ce qui s'est dit et passé lors du week end de conférences et des deux jours de sprints qui l'ont précédé.
+
+Pour se rendre à l'`Antre Autre <http://www.lantreautre.fr/>`_ :
+  - en métro : arrêt Hotel de Ville
+  - en vélo'v : stations Place Sathonay, Carmélites Buredeaux, Place de la paix
+

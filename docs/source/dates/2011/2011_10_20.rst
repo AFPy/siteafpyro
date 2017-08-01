@@ -1,0 +1,146 @@
+Octobre
+=======
+
+**Viendez, viendez nombreux au premier afpyronnersaire transatlantique TM  le 20 octobre 2011 (le 19 à Bordeaux) à 19h30**
+
+Pourquoi
+---------
+
+Figurez-vous qu'on nous observe depuis Montréal ! Et que c'est grâce à nos amis que l'on obtient le label transatlantique.
+
+::
+ 
+ [PM 09:08:40] < No`> salut les genpy
+ [PM 09:08:47] < No`> jpcw: té, j'voulais t'avoir
+ [PM 09:08:57] < No`> c'est a priori ok pour moi jeudi
+ [PM 09:09:03] < jpcw> ah cool
+ [PM 09:09:16] < jpcw> bon ben voilà afpyro à pau jeudi prochain
+ [PM 09:09:21] < jpcw> haypo: ^^
+ [PM 09:09:30] < gawel> pareil alors 
+ [PM 09:09:44] < gawel> faut brancher mathieu pour montreal :) 
+ [PM 09:09:49] < jpcw> ouep
+ [PM 09:09:59] < gawel> et je sais plus qui pour lille 
+ [PM 09:10:04] < jpcw> motif afpynersaire
+ [PM 09:10:13] < jpcw> tdesvenain pour lille
+ [PM 09:10:19] < gawel> afpyroversaire 
+ [PM 09:11:42] < jpcw> 17:36 < gawel:#afpy> afpyronnersaire
+ [PM 09:12:02] < gawel> haha 
+ [PM 09:12:28] < jpcw> comme quoi logs.afpy.org c'est un vrai service !
+ [PM 09:12:38] < No`> tiré par les cheveux mais bon... si c'est un prétexte pour boire des godets avec des pythonneux...
+ [PM 09:13:21] < jpcw> No`: tu rigoles !
+ [PM 09:13:32] < jpcw> Montréal nous observe et tout
+ 
+
+Bien entendu il y a toujours les sceptiques ::
+ 
+ [PM 09:14:33] < No`> euh... Montréal dans l'Aude ?
+ [PM 09:14:52] < jpcw> nope l'autre
+ [PM 09:15:57] < No`> faut jurer avec des Tabernak et tout ?
+ [PM 09:15:59] < jpcw> No`: log d'hier 17h34
+ [PM 09:16:20] < jpcw> 17h 31 pour le début
+ [PM 09:16:25] < jpcw> avec l'anniversaire toussa
+ [PM 09:17:42] < haypo> No`: matin
+ [PM 09:17:43] < No`> ah ben j'ai pas de log, je suis pas branché sur IRC 24h/24h
+ [PM 09:18:55] < jpcw> No`: http://logs.afpy.org
+ [PM 09:19:07] < jpcw> http://logs.afpy.org/archives/2011/10/03/
+ [PM 09:19:26] < No`> ah
+
+Si toi non plus tu n'es pas tout le temps sur le chan, ou si tu n' a pas les logs voici donc la version que l'histoire retiendra pour le premier afpynnersaire transatlantique 
+
+::
+ 
+ 17:31 < mlhamel1:#afpy> Joyeux anniversaire l'AFPY !
+ 17:31 < ogrisel:#afpy> joyeux anniversaire mlhamel1
+ 17:32 < mlhamel1:#afpy> c'est pas mon anniversaire mais il semblerait que ce soit celui des 8 ans de lAFPY si j'en crois les internets
+ 17:32 < mlhamel1:#afpy> ou en fait tarek, http://tarekziade.wordpress.com/2011/10/02/the-french-python-user-group-afpy-is-8-y-o/
+ 17:33 < jpcw:#afpy> mlhamel1: bah il a realisé hier que ça faisait 8 ans
+ 17:33 < jpcw:#afpy> mais ça n'est pas forcément la date exacte
+ 17:33 < mlhamel1:#afpy> ne soyez pas modeste, faut bien choisir une date !
+ 17:33 < jpcw:#afpy> mais merci quand même
+ 17:34 < mlhamel1:#afpy> dites vous que montreal vous regarde entkâ ¦
+ 17:36 < jpcw:#afpy> mlhamel1: tiens bien du coup cette phrase sera l'excuse pour le prochain afpyro
+ 17:36 < mlhamel1:#afpy> coool
+ 17:36 < jpcw:#afpy> nous faut toujours une justification
+ 17:36 < gawel:#afpy> \o/                                           
+
+Et voilà comment naît un afpyro transatlantique, ceci dit c'est du déjà vu, donc faut trouver un nom spécial pour l'occasion spéciale !
+
+::
+ 
+ 17:36 < mlhamel1:#afpy> comme si vous aviez besoins de d'autres raison que l'alcool
+ 17:36 < gawel:#afpy> afpyronnersaire
+ 17:36 < mlhamel1:#afpy> hahaha
+ 17:36 < mlhamel1:#afpy> j'aime
+ 17:36 < jpcw:#afpy> mlhamel1: c'est pshyco quelque chose
+ 17:37 < jpcw:#afpy> on sait pas exactement mais on se soigne :)
+ 17:37 < mlhamel1:#afpy> c'est seulement de l'alcoolophilie c'est pas grave
+ 17:37 < mlhamel1:#afpy> ca se cultive
+ 17:37 < mlhamel1:#afpy> comme une collection de timbres
+ 17:39 < jpcw:#afpy> mlhamel1: bon faut absolument que tu cales un afpyro à montreal en même temps que nous
+ 17:39 < jpcw:#afpy> genre afpyronerssaire transatlantique
+ 17:39 < jpcw:#afpy> ça commence à le faire
+ 17:39 < mlhamel1:#afpy> dites moi la date et on va essayer de faire quelque chose
+ 17:39 < mlhamel1:#afpy> :)
+ 17:39 < jpcw:#afpy> avec un peu de chance on aura pas fini quand vous commencerez
+ 17:39 < mlhamel1:#afpy> hahah
+
+C'est ainsi que notre ami gawel (le Seguela du Python) a inventé le concept d'afpyronnersaire !
+
+Quand à ceux qui se demandent pourquoi rattacher l'image de Seguela à gawel, ben je ne peux pas faire autrement !
+
+J'ai les logs, flemme de grepper mais je vous assure que gawel a écris ça un jour sur irc 
+
+:: 
+ 
+ A 30 ans si tu sais pas grepper t'as raté ta vie !
+
+:)
+
+Paris
+-----
+
+La Grosse Caisse (`plan a`_)
+
+* Happy hour de 17h à 20h.
+
+Adresse :
+  | 160 rue Montmartre
+  | Paris IIe
+
+Metro:
+
+* Grands Boulevards (ligne 8)
+* Bourse (ligne 3)
+
+.. _`plan a`: http://www.lesamisdelapero.fr/paris/bars/183-la-grosse-caisse
+
+Pau
+----
+au club d'échecs Henri IV
+
+39 ter rue E. Guichenné 64000 PAU
+
+`Plan OSM`_
+
+.. _`Plan OSM`: http://www.openstreetmap.org/?lat=43.29864&lon=-0.368015&zoom=16&layers=0B00FTFT
+
+Lille
+-----
+À la Capsule (`Plan Capsule`_)
+au coin de la rue des Trois Mollettes et de la rue Doudin
+
+.. _`Plan Capsule`: http://maps.google.fr/maps?q=la+capsule+lille&hl=fr&fb=1&gl=fr&hq=la+capsule&hnear=0x47c2d579b3256e11:0x40af13e81646360,Lille&cid=0,0,12583889713601582758&t=m&z=16&vpsrc=0&iwloc=A
+
+
+Strasbourg
+----------
+
+Au `Dubliner's <http://www.thedubliners.fr/>`_, rue du vieux marché aux poissons, à partir de 19h. Merci de vous inscrire sur la page suivante : http://www.facebook.com/event.php?eid=225873050807967 .
+
+`Plan ici <http://maps.google.com/maps/place?cid=18264006843622589785>`_
+
+Bordeaux
+--------
+
+Au `Cambridge Arms <http://www.cambridge-pub.com/index_content.html>`_, 27 rue Rode, 33000 Bordeaux.
+Attention comme on est un peu anglais à Bordeaux , on fait ça en avance des autres villes. C'est donc le **19 octobre à 19 heures** qu'aura lieu l'afpyro à Bordeaux.
