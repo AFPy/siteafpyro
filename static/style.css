@@ -162,19 +162,7 @@ footer a:link, footer a:visited {
 color: #366d9c;
 }
 
-footer a:hover { 
-text-decoration: underline; 
+footer a:hover {
+text-decoration: underline;
 color: #EE9816;
  }
- 
-a#tooCool {
-position: fixed;
-right: 0;
-bottom: 0;
-display: block;
-height: 80px;
-width: 80px;
-background: url(http://www.w3junkies.com/toocool/files/too_cool.png) bottom right no-repeat;
-text-indent: -999em;
-text-decoration: none;
-}
