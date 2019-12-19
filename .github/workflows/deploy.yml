@@ -1,0 +1,23 @@
+name: Publish
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Deploy
+      env:
+        deploy_key: ${{secrets.deploy_key}}
+        known_hosts: ${{secrets.known_hosts}}
+      run: |
+        mkdir -p ${HOME}/.ssh
+        printf "%s\n" "$known_hosts" > ${HOME}/.ssh/known_hosts
+        printf "%s\n" "$deploy_key" > ${HOME}/.ssh/id_ed25519
+        chmod 600 ${HOME}/.ssh/id_ed25519
+        eval $(ssh-agent)
+        ssh-add
+        rsync -a ./ afpyro-afpy-org@deb.afpy.org:/home/afpyro-afpy-org/src/
+        ssh afpyro-afpy-org@deb.afpy.org 'cd src/docs; ./update.sh'
+        ssh afpyro-afpy-org@deb.afpy.org sudo systemctl restart afpyro-afpy-org.service
