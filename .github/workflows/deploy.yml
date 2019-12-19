@@ -18,6 +18,8 @@ jobs:
         chmod 600 ${HOME}/.ssh/id_ed25519
         eval $(ssh-agent)
         ssh-add
+        python3 -m pip install --upgrade pip wheel setuptools
+        python3 -m pip install --user -r requirements.txt
+        PATH="$HOME/.local/bin/:$PATH" ./update.sh
         rsync -a ./ afpyro-afpy-org@deb.afpy.org:/home/afpyro-afpy-org/src/
-        ssh afpyro-afpy-org@deb.afpy.org 'cd src/docs; ./update.sh'
         ssh afpyro-afpy-org@deb.afpy.org sudo systemctl restart afpyro-afpy-org.service
