@@ -16,24 +16,26 @@ Commiter sur afpyrosite
 
     # éventuellement dans un venv
 
-    hg clone http://hg.afpy.org/siteafpyro/
+    git clone https://github.com/AFPy/siteafpyro
     cd siteafpyro
+    pip install -r requirements.txt
 
-    # D'un côté, lancez ceci, -la première fois, le bootstrap prend du temps
-    python bootstrap.py
-    ./update.py -s
+    # Faites vous une branche
+    git checkout -b afpyro-a-tataouin
 
-    # pendant ce temps, modifiez ou créez le présent site (par exemple, ajoutez une
-    # entrée dans docs/source/dates/2013/
-    # Une fois le script 'update.py' lancé, vérifiez votre œuvre sur http://127.0.0.1:6671
+    # Modifiez ce que vous vouliez (par exemple, ajoutez une
+    # entrée dans docs/source/dates/2020/)
+
+    # Testez avec
+    ./update.sh
+    FLASK_APP=afpyro FLASK_ENV=development flask run
 
     # committez
-    hg add .
-    hg commit -m"Annonce Afpyro le xx à tataouin"
+    git add -u
+    git commit -m "Annonce Afpyro le xx à tataouin"
 
-    # invitez le monde
-    hg push
+    # Rendez ça public
+    git push origin
 
-    # lors du push vous sera demandé votre identifiant/password du site afpy.org
-    # un hook rebuilde le site vos modifs sont en ligne
-
+    # Cliquez sur le lien pour ouvrir la pull request, une fois
+    acceptée un script mettra ça en prod.
