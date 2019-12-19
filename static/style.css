@@ -64,7 +64,6 @@ margin: 0.75em 0px 0.25em;
 }
 
 #wrapper {
-background: transparent url(http://www.afpy.org/_public/images/header-bg.gif) repeat-x 0% 0%;
 min-height:100%;
 position: relative;
 padding-bottom: 8em;
@@ -128,7 +127,6 @@ border-top: 1px solid #aaa;
 }
 
 #footer-area {
-background: transparent url(http://www.afpy.org/_public/images/colophon-bg.gif) repeat-x 0% 0%;
 color: #000;
 font-size: 90%;
 padding: 0px 0;
