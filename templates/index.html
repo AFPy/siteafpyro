@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>AFPyro – ${c.head_title}</title>
+  <title>AFPyro – {{c.head_title}}</title>
   <meta name="description" content="Les AFPyros sont des apéros Python organisés par l'AFPY partout dans le monde" />
   <meta name="keywords" content="afpyro apero python afpy" />
   <meta name="author" content="AFPY" />
-  <link href="/_static/pygments.css" type="text/css" rel="stylesheet" media="screen" />
+  <link rel="shortcut icon" href="/static/favicon.ico" />
+  <link href="/static/pygments.css" type="text/css" rel="stylesheet" media="screen" />
   <link href="/static/sphinxdoc.css" type="text/css" rel="stylesheet" media="screen" />
   <link href="/static/style.css" type="text/css" rel="stylesheet" media="screen" />
   <link href="/afpyro.rss" title="RSS Feed" type="application/rss+xml" rel="alternate" id="MediaRSS">
@@ -22,17 +23,17 @@
 	<nav><!-- top nav -->
 		<div class="menu" id="menu">
 			<ul>
-        <li><a href="${url('docs', id='accueil')}">A propos</a></li>
-        <li><a href="${url('docs', id='dates')}#menu">Dates</a></li>
+        <li><a href="{{url_for('accueil', id='accueil')}}">A propos</a></li>
+        <li><a href="{{url_for('dates', id='dates')}}#menu">Dates</a></li>
 	<!--
 	TODO:sub-menu here routing already works
 	  <ul>
 	      <li><a href="${url('dates', id='2010')}">2010</a></li>
 	  </ul>
 	-->
-        <li><a href="${url('docs', id='faq')}#menu">F.A.Q</a></li>
-        <li><a href="${url('docs', id='contribute')}#menu">Organiser un Afpyro</a></li>
-        <li><a href="${url('code', path_info='file/tip')}#menu">Code</a></li>
+        <li><a href="{{url_for('faq')}}#menu">F.A.Q</a></li>
+        <li><a href="{{url_for('contribute')}}#menu">Organiser un Afpyro</a></li>
+        <li><a href="https://github.com/AFPy/siteafpyro">Code</a></li>
 			</ul>
 		</div>
 	</nav><!-- end of top nav -->
@@ -42,8 +43,8 @@
 			<div id="content"><!-- #content -->
 
         		<article>
-              <h1>${c.title|n}</h1>
-              ${c.body|n}
+              <h1>{{c.title}}</h1>
+              {{c.body}}
             </article>
 			</div><!-- end of #content -->
 
